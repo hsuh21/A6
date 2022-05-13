@@ -3,7 +3,9 @@
 body {
 	overflow: hidden;
 	display: flex;
-	background: -webkit-linear-gradient(top, #89c0ea 0%, rgb(212, 228, 241) 100%);
+	/*background: -webkit-linear-gradient(top, #89c0ea 0%, rgb(212, 228, 241) 100%);*/
+	background: url(bliss.webp);
+	background-size: cover no-repeat;
 }
 
 #clouds{
